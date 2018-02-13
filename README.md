@@ -1,2 +1,2 @@
 # msbuild-docker
-a container for running msbuild
+an image with msbuild tools
