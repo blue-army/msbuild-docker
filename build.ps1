@@ -1,0 +1,1 @@
+docker build -t nullreference/msbuild -m 2GB .
