@@ -10,4 +10,4 @@ Contains:
 
 Run the image with:
 
-`docker run -it -v ${PWD}:c:\work --workdir c:\work buildtools:latest`
+`docker run -it -v ${PWD}:c:\work --workdir c:\work nullreference/msbuild`
